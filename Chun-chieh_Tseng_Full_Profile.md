@@ -1,4 +1,3 @@
-
 # Chun-chieh (John) Tseng
 
 **Location:** 28-40 Jackson Ave, Long Island City, NY  
@@ -98,6 +97,22 @@ Master of Arts in Statistics – Data Science Track | GPA: 3.7/4.0
 - Architected event-based data separation (multi-activity support), enabling users to manage multiple group trips with isolated bills and participants.
 - Integrated persistent storage and offline capabilities, ensuring stable operation without active server.
 - Managed the full development lifecycle from design and prototyping to GitHub-based deployment; collaborated with users to iterate features and improve UX.
+
+---
+
+## ✈️ FlyBuddy – Flight Tracking & Prediction Game
+
+**Creator & Full-Stack Developer**  
+*New York City | May 2024 – Present*
+
+- Built **FlyBuddy**, an iOS app that combines **real-time flight tracking** with a **prediction-based game**, helping users track flights and guess outcomes (on-time, delayed, canceled) to earn points and climb a leaderboard.
+- Integrated **Mapbox** to visualize aircraft in real time with flight paths, speed, and altitude data.
+- Developed core game engine and daily prediction logic using **React Native + Firebase** stack:
+  - Daily prediction reset with scoring logic: On-Time (+5), Delayed (+8), Canceled (+15), Incorrect (−2)
+  - Secure prediction tracking and leaderboard ranking via **Firestore + Cloud Functions**
+- Enabled **user flight journaling**, allowing users to log and map their global flight history.
+- Implemented smart notifications for **arrival reminders** and **game results**, enhancing engagement.
+- Designed app architecture with future extensibility in mind: Android support, ML-based delay forecasting, and social features.
 
 ---
 
