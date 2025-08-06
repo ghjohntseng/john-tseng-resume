@@ -1,7 +1,8 @@
 # Chun-chieh (John) Tseng
 
-**Location:** 28-40 Jackson Ave, Long Island City, NY  
-**Email:** zengjunjie5856@gmail.com • **Phone:** (917)-803-7869  
+**Location:** 📍 NYC / Toronto
+**Email:** 📧 zengjunjie5856@gmail.com• **Phone:** 📞 (917)-803-7869 
+**Github:** 💻 [GitHub: ghjohntseng](https://github.com/ghjohntseng) | 💼 [LinkedIn](https://www.linkedin.com/in/chunchieh-tseng)
 
 ---
 
