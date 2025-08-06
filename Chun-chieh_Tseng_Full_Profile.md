@@ -1,7 +1,12 @@
+# 💼 Chun-chieh (John) Tseng – Resume
+
+This is the full markdown version of Chun-chieh Tseng's professional resume, including technical experience, projects, and skills.  
+View the original Markdown file at `Chun-chieh_Tseng_Full_Profile.md` or use this README for GitHub Pages rendering.
+
 # Chun-chieh (John) Tseng
 
-**Location:** 📍 NYC / Toronto
-**Email:** 📧 zengjunjie5856@gmail.com• **Phone:** 📞 (917)-803-7869 
+**Location:** 📍 NYC / Toronto  
+**Email:** 📧 zengjunjie5856@gmail.com• **Phone:** 📞 (917)-803-7869  
 **Github:** 💻 [GitHub: ghjohntseng](https://github.com/ghjohntseng) | 💼 [LinkedIn](https://www.linkedin.com/in/chunchieh-tseng)
 
 ---
@@ -23,7 +28,7 @@ Master of Arts in Statistics – Data Science Track | GPA: 3.7/4.0
 *Sep 2021 – Feb 2023*
 
 **University of Toronto** — *Toronto, ON*  
-Honors Bachelor of Science - Health Diseases Sepcalist ; Statistics Major; Mathematics Major
+Honors Bachelor of Science - Health Diseases Sepcalist ; Statistics Major; Mathematics Major  
 *Sep 2016 – Dec 2020*
 
 ---
