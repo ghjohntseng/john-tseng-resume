@@ -1,7 +1,9 @@
 # Chun-chieh (John) Tseng
 
 **Location:** 📍 NYC / Toronto
+
 **Email:** 📧 zengjunjie5856@gmail.com• **Phone:** 📞 (917)-803-7869 
+
 **Github:** 💻 [GitHub: ghjohntseng](https://github.com/ghjohntseng) | 💼 [LinkedIn](https://www.linkedin.com/in/chunchieh-tseng)
 
 ---
@@ -19,11 +21,12 @@
 ## 🎓 Education
 
 **Columbia University** — *New York City, NY*  
-Master of Arts in Statistics – Data Science Track | GPA: 3.7/4.0  
+Master of Arts in Statistics – Data Science Track | GPA: 4.0/4.0  
 *Sep 2021 – Feb 2023*
 
 **University of Toronto** — *Toronto, ON*  
 Honors Bachelor of Science - Health Diseases Sepcalist ; Statistics Major; Mathematics Major
+
 *Sep 2016 – Dec 2020*
 
 ---
