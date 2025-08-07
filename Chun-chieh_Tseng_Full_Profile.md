@@ -24,11 +24,11 @@ View the original Markdown file at `Chun-chieh_Tseng_Full_Profile.md` or use thi
 ## 🎓 Education
 
 **Columbia University** — *New York City, NY*  
-Master of Arts in Statistics – Data Science Track | GPA: 3.7/4.0  
+Master of Arts in Statistics – Data Science Track | GPA: 4.0/4.0  
 *Sep 2021 – Feb 2023*
 
 **University of Toronto** — *Toronto, ON*  
-Honors Bachelor of Science - Health Diseases Sepcalist ; Statistics Major; Mathematics Major  
+Honors Bachelor of Science - Health Diseases Sepcalist ; Statistics Major; Mathematics Major  | GPA: 3.7/4.0  
 *Sep 2016 – Dec 2020*
 
 ---
